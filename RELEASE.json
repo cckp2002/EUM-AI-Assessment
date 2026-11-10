@@ -1,1 +1,20 @@
-{"release":"F19","date":"2026-11-05","base":"/EUM-AI-Assessment","personalKeyOnly":true,"realGPTCallsDuringReleaseQA":0}
+{
+  "release": "F20",
+  "date": "2026-11-10",
+  "base": "/EUM-AI-Assessment",
+  "personalKeyOnly": true,
+  "realGPTCallsDuringReleaseQA": 0,
+  "publicUrl": "https://cckp2002.github.io/EUM-AI-Assessment/",
+  "changeScope": "VISUAL_ONLY",
+  "previousRelease": "F19",
+  "previousCommit": "32e75d894e5894730b83dd7bbad65c1c3c96da27",
+  "backupRef": "refs/heads/backup/f19-before-f20-20261110",
+  "sourceFilesChanged": [
+    "app/globals.css"
+  ],
+  "validation": {
+    "automatedTestsPassed": 1172,
+    "mockBrowserChecksPassed": 25,
+    "realOpenAICalls": 0
+  }
+}
